@@ -1,4 +1,4 @@
 # Juego del amigo secreto
 
-_Permite un sorteo al azar con transparencia_
+_Aplicación que permite un sorteo al azar con transparencia_
 
