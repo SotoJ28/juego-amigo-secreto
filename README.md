@@ -2,6 +2,6 @@
 
 _Aplicación que permite un sorteo al azar con transparencia_
 
-## Introduction
+## Introducción
 
 La aplicación del amigo secreto fue pensada con la finalidad de optimizar juegos al azar 
